@@ -15,7 +15,7 @@ variable "zone" {
 }
 
 variable "instance_name" {
-    default = "server"
+    default = "web-server"
 }
 variable "instance_type" {
     default = "e2-micro"
